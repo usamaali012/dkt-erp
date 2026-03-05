@@ -1,6 +1,6 @@
 # DKT ERP — Manufacturing & Distribution Management System
 
-> **Note:** This repository contains no application code. It is an architecture reference document describing the system design, technical decisions, and infrastructure of a production multi-tenant financial SaaS platform I built as Lead Full-Stack Engineer.
+> **Note:** This repository contains no application code. It is an architecture reference document describing the system design, technical decisions, and infrastructure of a production SaaS platform I built as Lead Full-Stack Engineer.
 
 ---
 
