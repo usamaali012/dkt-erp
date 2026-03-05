@@ -1,5 +1,9 @@
 # DKT ERP — Manufacturing & Distribution Management System
 
+> **Note:** This repository contains no application code. It is an architecture reference document describing the system design, technical decisions, and infrastructure of a production multi-tenant financial SaaS platform I built as Lead Full-Stack Engineer.
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.8-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tornado](https://img.shields.io/badge/Tornado-Async%20Web%20Framework-F7931E?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-12+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
